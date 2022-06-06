@@ -1,0 +1,12 @@
+Andre Kullmann:
+  name             : "André Kullmann"
+  avatar           : "/assets/images/DSC_1446.JPG"
+  bio              : "Team Leader at [Otto Group Solution Provider](https://osp.de/)."
+  location         : "Dresden, Germany"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/andrekullmann"
+    - label: "Xing"
+      icon: "fab fa-fw fa-xing"
+      url: "https://www.xing.com/profile/Andre_Kullmann"
