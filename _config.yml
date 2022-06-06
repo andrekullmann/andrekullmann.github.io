@@ -56,7 +56,9 @@ footer:
     - label: "Xing"
       icon: "fab fa-fw fa-xing"
       url: "https://www.xing.com/profile/Andre_Kullmann"
-
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/andr%C3%A9-kullmann-43806a166"
 
 # Reading Files
 include:
