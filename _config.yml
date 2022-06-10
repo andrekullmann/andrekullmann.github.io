@@ -9,6 +9,8 @@ remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
 minimal_mistakes_skin    : "mint" #, "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+repository: andrekullmann/andrekullmann.github.io
+
 host: 0.0.0.0
 
 # Site Settings
@@ -26,8 +28,13 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+
 comments:
-  provider               : "false" # false (default), "disqus", "discourse", "facebook", "staticman_v2", "staticman", "utterances", "giscus", "custom"
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+#    label: "comment" # Optional - must be existing label.
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
@@ -129,7 +136,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: "_pages"
