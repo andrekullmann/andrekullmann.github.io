@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "mint" #, "default", "air", "aqua", "contrast", "dark
 
 repository: andrekullmann/andrekullmann.github.io
 
-host: http://andrekullmann.github.io
+host: https://andrekullmann.github.io
 # host: 0.0.0.0
 
 # Site Settings
@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : ""
 name                     : "André Kullmann"
 description              : "André Kullmann. Software Architect and Team Leader."
-url                      : andrekullmann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://andrekullmann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andrekullmann/andrekullmann.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -35,7 +35,7 @@ comments:
   utterances:
     theme: "github-light" # "github-dark"
     issue_term: "pathname"
-    label: "comment" # Optional - must be existing label.
+    # label: "comment" # Optional - must be existing label.
 
 atom_feed:
   path                   : # blank (default) uses feed.xml
