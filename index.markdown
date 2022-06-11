@@ -17,8 +17,6 @@ header:
 #   - label: "More Info2"
 #     url: "https://unsplash.com"
 
-visibility: hidden;
-
 ---
 
 __Welcome to my page__
