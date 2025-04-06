@@ -10,5 +10,5 @@ RUN bundle install
 
 COPY . ./
 
-CMD bundle exec jekyll serve --incremental
+CMD bundle exec jekyll serve  --host=0.0.0.0 --incremental
 

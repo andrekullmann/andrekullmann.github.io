@@ -20,7 +20,7 @@ title                    : "André Kullmann"
 title_separator          : "-"
 subtitle                 : ""
 name                     : "André Kullmann"
-description              : "André Kullmann. Software Architect and Team Leader."
+description              : "André Kullmann. Solution Architect and Department Lead."
 url                      : https://andrekullmann.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "andrekullmann/andrekullmann.github.io"
@@ -98,6 +98,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _posts
 keep_files:
   - .git
   - .svn
