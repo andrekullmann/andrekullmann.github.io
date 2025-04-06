@@ -19,10 +19,14 @@ header:
 
 ---
 
-__Welcome to my page__
+__Who am I and what do I do?__
 
-- 🔨 I'm working as a department lead and solution architect at 🖥️ [Otto Group one.O](https://www.og1o.com/en) in Germany.
-- 🌱 I am focusing on developing applications that integrate seamlessly within omnichannel commerce system landscapes.
-- 🧑‍💻 My journey in technology began in the 2000s when I started working with Java.
-- 📫 I invite you to connect with me on [Xing](https://www.xing.com/profile/Andre_Kullmann) or [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-kullmann-43806a166).
-- 💡 [Spring Boot](https://spring.io/projects/spring-boot), [Quarkus](https://quarkus.io/), [GCP](https://cloud.google.com/gcp), [AWS](https://aws.amazon.com/en/) Together, these frameworks empower me to deliver high-quality solutions that meet the demands of modern commerce.
+🔨 I'm working as a department lead and solution architect at [Otto Group one.O](https://www.og1o.com/en) in Germany.
+
+🌱 I am focusing on developing applications that integrate seamlessly within omnichannel commerce system landscapes.
+
+🧑‍💻 My journey in technology began in the 2000s when I started working with Java.
+
+📫 I invite you to connect with me on [Xing](https://www.xing.com/profile/Andre_Kullmann) or [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-kullmann-43806a166).
+
+💡 [Spring Boot](https://spring.io/projects/spring-boot), [Quarkus](https://quarkus.io/), [GCP](https://cloud.google.com/gcp), [AWS](https://aws.amazon.com/en/) Together, these frameworks empower me to deliver high-quality solutions that meet the demands of modern commerce.
